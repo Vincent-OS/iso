@@ -1,8 +1,14 @@
-# ![NAME_PROJECT_HERE logo]() [NAME_PROJECT_HERE]
-Template for creating a repo.
+# ![Vincent OS logo](Assets/logo.png) Vincent OS ISO Build
+This is the official repository for building the Vincent OS ISO.
 
-## Installation
-Dumbie text
+## Build
+To build the ISO, you need to have the following packages installed on your system:
+- `archiso`
+- `git`
+- `base-devel`
 
-## Contribute
-[NAME_RPOJECT_HERE] is open to all contributions! You can read more at the CONTRIBUTE.md file.
+> [!TIP]
+> If you are using Vincent OS, you can simply install the SDK Environment by running the following script:
+> ```powershell
+> Initialize-SDKEnvironment.ps1
+> ```
