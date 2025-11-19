@@ -1,3 +1,4 @@
+7zip
 alsa-utils
 amd-ucode
 arch-install-scripts
@@ -118,6 +119,7 @@ plasma-workspace
 plasma-workspace-wallpapers
 polkit-kde-agent
 powershell-bin
+power-profiles-daemon
 ppp
 pptpclient
 print-manager
@@ -147,6 +149,8 @@ tpm2-tools
 tpm2-tss
 udftools
 ufw
+unarchiver
+unrar
 usb_modeswitch
 usbmuxd
 usbutils
@@ -165,3 +169,5 @@ wireless-regdb
 wireless_tools
 wpa_supplicant
 xdg-desktop-portal-kde
+xdg-desktop-portal-gtk
+xorg-xinit

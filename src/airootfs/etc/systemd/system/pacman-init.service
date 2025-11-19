@@ -9,7 +9,8 @@ Before=archlinux-keyring-wkd-sync.service
 Type=oneshot
 RemainAfterExit=yes
 ExecStart=/usr/bin/pacman-key --init
-ExecStart=/usr/bin/pacman-key --populate
+# HACK: This is bad
+ExecStart=/usr/bin/pacman-key --populate vincent-os
 
 [Install]
 WantedBy=multi-user.target
