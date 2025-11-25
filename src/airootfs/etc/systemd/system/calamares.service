@@ -1,0 +1,13 @@
+[Unit]
+Description=Calamares Installer (Fullscreen)
+After=systemd-user-sessions.service
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/xinit /usr/bin/calamares
+Restart=always
+User=root
+WorkingDirectory=/root
+
+[Install]
+WantedBy=multi-user.target
