@@ -4,7 +4,6 @@ amd-ucode
 arch-install-scripts
 ark
 b43-fwcutter
-base
 bind
 bolt
 bluedevil
@@ -12,7 +11,6 @@ bluez
 bluez-utils
 breeze-gtk
 brltty
-broadcom-wl
 btrfs-progs
 ckbcomp
 clamav
@@ -35,9 +33,9 @@ edk2-shell
 efibootmgr
 ethtool
 exfatprogs
-falkon
 fatresize
 flatpak
+flatpak-kcm
 fwupd
 fwupd-efi
 gpm
@@ -87,6 +85,7 @@ networkmanager
 networkmanager-qt
 nfs-utils
 noto-fonts
+noto-fonts-cjk
 noto-fonts-emoji
 ntfs-3g
 nvme-cli
@@ -119,8 +118,6 @@ plasma-welcome
 plasma-workspace
 plasma-workspace-wallpapers
 polkit-kde-agent
-powershell-bin
-power-profiles-daemon
 ppp
 pptpclient
 print-manager
@@ -141,11 +138,13 @@ spectacle
 squashfs-tools
 sudo
 syslinux
+system
 systemd-resolvconf
 system-config-printer
 tcpdump
 terminus-font
 timeshift
+tlp
 tpm2-tools
 tpm2-tss
 udftools
@@ -157,11 +156,12 @@ usbmuxd
 usbutils
 vincent-os-calamares
 vincent-os-calamares-settings
-vincent-os-filesystem
 vincent-os-keyring
 vincent-os-lsb-release
+vincent-os-skel
 vpnc
 wallpapers
+websm
 wget
 wine
 wine-gecko

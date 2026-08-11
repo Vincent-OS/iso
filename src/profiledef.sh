@@ -2,10 +2,10 @@
 # shellcheck disable=SC2034
 
 iso_name="vincentOS"
-iso_label="VINCENTOS-1.1_origin"
+iso_label="VINCENTOS-1.2_origin"
 iso_publisher="v38armageddon <https://vincent-os.v38armageddon.net>"
 iso_application="Vincent OS LiveCD"
-iso_version="1.1"
+iso_version="1.2"
 install_dir="vincentos"
 buildmodes=('iso')
 bootmodes=('bios.syslinux' 'uefi.systemd-boot')
