@@ -1,0 +1,3 @@
+# The version repository (know as: codename repo)
+Server = https://repo.v38armageddon.net/vincent-os/server/cyclades/x86_64
+Server = https://repo-fallback.v38armageddon.net/vincent-os/server/cyclades/x86_64
